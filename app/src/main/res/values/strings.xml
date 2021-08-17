@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BinaryVeda</string>
+    <string name="landing_head">
+        <br>
+         lorem ipsum\n
+      </br>
+      <br>
+          is used
+      </br>
+    </string>
+
+    <string name="landing_content">
+<br>
+         Lorem ipsum dolor sit amet, consectetur \n
+      </br>
+      <br>
+         adipiscing elit, sed do eiusmod tempor\n
+      </br>
+      <br>
+         incididunt ut labore et dolore magna aliqua.\n
+      </br>
+          <br>
+         Ut enim ad minim veniam, quis nostrud\n
+      </br>
+      <br>
+          exercitation ullamco.
+      </br>
+    </string>
+
+    <string name="landing_mainHead">
+        <br>Lorem ipsum dolor sit amet, consectetur
+      </br>
+      <br>adipiscing elit
+      </br>
+    </string>
+</resources>
