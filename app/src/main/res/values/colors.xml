@@ -10,4 +10,10 @@
     <color name="tomato">#EC512E</color>
     <color name="cornFlowerBlue">#5394DF</color>
     <color name="lightGray">#d8d8d8</color>
+    <color name="green">#44a33d</color>
+    <color name="purple">#5f0e47</color>
+    <color name="violet">#9e003d</color>
+    <color name="red">#d90034</color>
+    <color name="orange">#FF4518</color>
+    <color name="yellow">#ffc200</color>
 </resources>
